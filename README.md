@@ -6,10 +6,10 @@ A self-driving car (also known as an autonomous car or driverless car) is a vehi
 # Self Driving Car Project Based on this research Paper
 https://arxiv.org/pdf/1604.07316 
 
-#Video Demo
+# Video Demo
 
 
 
-#Authors:
+# Authors:
 Author: Shivam Kumar
 Email: shivam24fromlkp@gmail.com
