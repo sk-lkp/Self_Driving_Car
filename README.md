@@ -3,5 +3,13 @@ A self-driving car (also known as an autonomous car or driverless car) is a vehi
 
 # Download Udacity's Self-Driving Car Simulator
 
-# This Project Based on this research Paper
+# Self Driving Car Project Based on this research Paper
 https://arxiv.org/pdf/1604.07316 
+
+#Video Demo
+
+
+
+#Authors:
+Author: Shivam Kumar
+Email: shivam24fromlkp@gmail.com
